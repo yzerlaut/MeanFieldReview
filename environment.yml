@@ -1,0 +1,9 @@
+name: MFreview
+dependencies:
+  - git
+  - brian2
+  - scipy
+  - numpy
+  - matplotlib
+  - jupyter
+  - jupytext
